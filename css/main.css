@@ -1,0 +1,101 @@
+.title{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: initial;
+    color: blue;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+.form{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: auto;
+    margin-top: 160px;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 20px;
+}
+
+.num01 {
+    display: block;
+    margin-bottom: 30px;
+    border-color: purple;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.operator{
+    display: block;
+    margin-bottom: 30px;
+    padding-right: 40px;
+    border-color: coral;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.num02{
+    display: block;
+    margin-bottom: 30px;
+    border-color: yellow;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.submit{
+    display: block;
+    margin-bottom: 20px;
+    border-color: pink;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 30px;
+    margin-left: 45px;
+}
+
+.result{
+    display: block;
+    border-color: teal;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 35px;
+    width: 120px;
+    margin-left: 30px;
+}
+
+.name {
+    display: block;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.password {
+    display: block;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.email {
+    display: block;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.sign{
+    display: block;
+    margin-bottom: 20px;
+    border-color: pink;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 30px;
+    margin-left: 45px;
+}
